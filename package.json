@@ -1,7 +1,6 @@
 {
   "name": "bamazon",
   "version": "1.0.0",
-  "description": "",
   "main": "BamazonCustomer.js",
   "dependencies": {
     "nodemon": "^1.18.10"
@@ -11,5 +10,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patsmth3/BAMAZON.git"
+  },
+  "bugs": {
+    "url": "https://github.com/patsmth3/BAMAZON/issues"
+  },
+  "homepage": "https://github.com/patsmth3/BAMAZON#readme",
+  "description": ""
 }
